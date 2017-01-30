@@ -1,0 +1,2 @@
+float *d_arr=new float[N];
+h_a.size()
